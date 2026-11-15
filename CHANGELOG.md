@@ -1,3 +1,1 @@
 # jlp-git CHANGELOG
-
-11/01/2026
